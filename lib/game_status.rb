@@ -14,3 +14,6 @@ WIN_COMBINATIONS = [
   left_to_right_across_win = [0,4,8],
   right_to_left_across_win = [6,4,2]
 ]
+
+def won?
+end
