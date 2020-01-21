@@ -16,4 +16,8 @@ WIN_COMBINATIONS = [
 ]
 
 def won?(board)
+  if board[top_row_win[0]] == "X" &&
+    board[top_row_win[1]] == "X" &&
+    board[top_row_win[2]] == "X"
+     "X won in the top row"  
 end
