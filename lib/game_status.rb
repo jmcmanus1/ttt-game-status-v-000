@@ -28,3 +28,9 @@ def full?(board)
     token == "X" || token == "O"
   end
 end
+
+def draw?(board)
+  if !won?(board) == false && full?(board) == true
+    true
+  end
+end
