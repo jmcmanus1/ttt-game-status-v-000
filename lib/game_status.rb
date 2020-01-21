@@ -15,5 +15,5 @@ WIN_COMBINATIONS = [
   right_to_left_across_win = [6,4,2]
 ]
 
-def won?
+def won?(board)
 end
