@@ -13,5 +13,4 @@ WIN_COMBINATIONS = [
   top_to_bottom_win_3 = [2,5,8]
   across_win_1 = [0,4,8]
   across_win_2 = [6,4,2]
-
 ]
